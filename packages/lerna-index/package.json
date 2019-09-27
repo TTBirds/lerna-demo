@@ -1,6 +1,6 @@
 {
   "name": "lerna-index",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna-module-a": "^0.0.3",
+    "lerna-module-a": "^0.0.4",
     "react": "^16.9.0"
   },
   "gitHead": "75fc566d1e1a6c5e08c42065ab7cb3e6abf0e3dc"

@@ -1,6 +1,6 @@
 {
-  "name": "lerna-module-a",
-  "version": "0.0.1",
+  "name": "learn-index",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "062b21a9f658699c2690dfe16c75e64d7f70e001",
   "dependencies": {
     "react": "^16.9.0"
   }
